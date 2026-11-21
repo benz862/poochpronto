@@ -1,0 +1,959 @@
+{
+  "directory": "Pooch Pronto",
+  "slug": "pooch-pronto",
+  "domain": "poochpronto.com",
+  "directory_id": "9f9a644f-fea2-4aab-9e0a-7103a6a9368f",
+  "listings": [
+    {
+      "id": "pooch-dirty-dog-detailing",
+      "name": "Dirty Dog Detailing",
+      "phone": "(239) 375-6249",
+      "phone_tel": "+12393756249",
+      "email": "",
+      "website": "https://dirtydogdetailingnaples.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dirty+Dog+Detailing+Naples+FL",
+      "facebook_url": "",
+      "town": "Naples",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Naples",
+        "Marco Island",
+        "Bonita Springs",
+        "Fort Myers",
+        "Estero",
+        "Golden Gate",
+        "Ave Maria",
+        "Isle of Capri"
+      ],
+      "services": [
+        "Mobile grooming van comes to the home",
+        "Dog Full Groom: bath, blow dry, full haircut / trim, nail trim, ear cleaning, anal gland expression if needed, deshedding, brush out \u2014 from $145+ (0\u201320 lbs) to $185+ (60+ lbs)",
+        "Dog Bath Only from $90+ to $140+",
+        "Canine SubZero Cryotherapy $75 add-on / standalone"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://dirtydogdetailingnaples.com",
+      "data_notes": ""
+    },
+    {
+      "id": "pooch-the-club-pet-grooming-fl",
+      "name": "The Club Pet Grooming FL",
+      "phone": "(239) 440-4276",
+      "phone_tel": "+12394404276",
+      "email": "",
+      "website": "https://theclubpetgroomingfl.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Club+Pet+Grooming+FL+Naples+FL",
+      "facebook_url": "",
+      "town": "Naples",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Naples",
+        "Bonita Springs",
+        "Marco Island"
+      ],
+      "services": [
+        "Mobile service, one-on-one at the doorstep",
+        "Dogs: Full Grooming XS $120 \u00b7 S $130 \u00b7 M $145 \u00b7 L $180 \u00b7 XL $260 (bath, dry, haircut and styling, nail clipping / grinding, ear cleaning)",
+        "Premier Groom from $150 (adds anal gland expression and teeth brushing \u2014 brushing only)",
+        "Bath / Spa from $60\u2013$150",
+        "Cats: Full Grooming from $190, Bath Only from $100"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://theclubpetgroomingfl.com",
+      "data_notes": "Teeth brushing add-on noted (brushing only, in Premier Groom)."
+    },
+    {
+      "id": "pooch-pawssible-mobile-grooming",
+      "name": "Pawssible Mobile Grooming",
+      "phone": "239-474-2900",
+      "phone_tel": "+12394742900",
+      "email": "",
+      "website": "https://pawssiblemobilegrooming.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pawssible+Mobile+Grooming+Naples+FL",
+      "facebook_url": "",
+      "town": "Naples",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Naples",
+        "Bonita Springs",
+        "Estero",
+        "Fort Myers",
+        "Marco Island"
+      ],
+      "services": [
+        "Comprehensive Full Groom (breed-standard trim, bath, blow dry, conditioning)",
+        "Express Bath and Brush (bath, deshedding brush-out, detangling)",
+        "Precision Nail Care (trim and filing)"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://pawssiblemobilegrooming.com",
+      "data_notes": "No prices published on the page read."
+    },
+    {
+      "id": "pooch-paw-spa-mobile-grooming",
+      "name": "Paw Spa Mobile Grooming",
+      "phone": "(239) 424-9209",
+      "phone_tel": "+12394249209",
+      "email": "",
+      "website": "https://pawspamg.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Paw+Spa+Mobile+Grooming+Bonita+Springs+FL",
+      "facebook_url": "",
+      "town": "Bonita Springs",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Bonita Springs",
+        "Estero",
+        "South Fort Myers"
+      ],
+      "services": [
+        "Bath with massage",
+        "De-shedding",
+        "Haircut",
+        "Nails clipped",
+        "Ears cleaned",
+        "Grooming schedules at 4, 6 and 8 week increments"
+      ],
+      "hours": "Wed\u2013Sat 8:30 AM\u20134:00 PM",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://pawspamg.com",
+      "data_notes": "Dogs up to 35 lbs. Prices on its Spa Menu page \u2014 not read in this pass, none recorded."
+    },
+    {
+      "id": "pooch-kathies-mobile-grooming-spa",
+      "name": "Kathie's Mobile Grooming Spa",
+      "phone": "612-210-2556",
+      "phone_tel": "+16122102556",
+      "email": "",
+      "website": "https://kathiesmobilegroomingspa.net",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kathie%27s+Mobile+Grooming+Spa+Cape+Coral+FL",
+      "facebook_url": "",
+      "town": "Cape Coral",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Cape Coral",
+        "Fort Myers",
+        "Matlacha",
+        "Bokeelia",
+        "Burnt Store Marina"
+      ],
+      "services": [
+        "Mobile dog grooming that comes to you",
+        "One-on-one grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Verified from its own social pages (Facebook / Instagram); website kathiesmobilegroomingspa.net is named on its own flyers, but no social page URL is recorded in the research, so source_url is left blank rather than guessed. 612 is a Minnesota area code \u2014 number recorded exactly as published. Experience figures on its own flyers appear as both 23+ and 25+ years \u2014 not resolved. No prices published on the flyers read."
+    },
+    {
+      "id": "pooch-pup-shack-grooming",
+      "name": "Pup Shack Grooming",
+      "phone": "239-486-0177",
+      "phone_tel": "+12394860177",
+      "email": "",
+      "website": "https://pupshackgrooming.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pup+Shack+Grooming+Cape+Coral+FL",
+      "facebook_url": "",
+      "town": "Cape Coral",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Cape Coral",
+        "Fort Myers",
+        "Lee County"
+      ],
+      "services": [
+        "Mobile grooming in its branded van",
+        "Bath Packages from $79",
+        "Full Groom from $99"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Verified from its own Facebook page (website pupshackgrooming.com is named on its own posts; direct website fetch was rate-limited in this pass); no Facebook page URL is recorded in the research, so source_url is left blank rather than guessed."
+    },
+    {
+      "id": "pooch-doodles-pet-grooming-on-the-road",
+      "name": "Doodle's Pet Grooming (\"On The Road\")",
+      "phone": "239-406-0298",
+      "phone_tel": "+12394060298",
+      "email": "",
+      "website": "https://petgroomingdoodles.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Doodle%27s+Pet+Grooming+%28%22On+The+Road%22%29+Naples+FL",
+      "facebook_url": "",
+      "town": "Naples",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Naples",
+        "Estero",
+        "Marco Island",
+        "Ave Maria",
+        "Golden Gate Estates",
+        "Bonita Springs",
+        "Fort Myers",
+        "Immokalee",
+        "Lehigh Acres",
+        "LaBelle"
+      ],
+      "services": [
+        "Mobile pet grooming service \u2014 We come to you",
+        "Dog grooming",
+        "Cat grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Verified from its own Facebook / Instagram pages; website petgroomingdoodles.com is named on its own posts, but no social page URL is recorded in the research, so source_url is left blank rather than guessed. No prices published on the posts read."
+    },
+    {
+      "id": "pooch-happy-doggie-mobile-grooming",
+      "name": "Happy Doggie Mobile Grooming",
+      "phone": "239-285-8150",
+      "phone_tel": "+12392858150",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Happy+Doggie+Mobile+Grooming+Naples+FL",
+      "facebook_url": "",
+      "town": "Naples",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Naples",
+        "Fort Myers",
+        "Punta Gorda"
+      ],
+      "services": [
+        "Bath & Brush",
+        "Haircuts",
+        "Nail Trimming",
+        "Ear Cleaning",
+        "Full Grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Social-only presence: verified from its own Facebook page; no Facebook page URL is recorded in the research, so facebook_url and source_url are left blank rather than guessed. Cage-free, certified groomer (as published). No prices published on the post read."
+    },
+    {
+      "id": "pooch-my-bff-pet-services-my-best-friends-friend-mobile-grooming",
+      "name": "My BFF Pet Services \u2014 My Best Friend's Friend Mobile Grooming",
+      "phone": "(239) 249-4405",
+      "phone_tel": "+12392494405",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=My+BFF+Pet+Services+%E2%80%94+My+Best+Friend%27s+Friend+Mobile+Grooming+Fort+Myers+FL",
+      "facebook_url": "",
+      "town": "Fort Myers",
+      "region": "swfl",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Fort Myers",
+        "Cape Coral"
+      ],
+      "services": [
+        "Bath & Brush",
+        "Haircuts & Styling",
+        "Nail Trimming",
+        "Ear & Teeth Cleaning"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Social-only presence: verified from its own Instagram page; no Instagram handle or URL is recorded in the research, so social_url and source_url are left blank rather than guessed. Website shown on its own flyer as 'www.my-bff-net' \u2014 truncated in the flyer artwork, recorded as shown and not completed by guessing, so website is left blank. 'Teeth Cleaning' wording appears in a services icon list alongside ear cleaning with no standalone dental scaling service or dental price published \u2014 treated as a grooming add-on, not the hard-exclusion service, and flagged in the research."
+    },
+    {
+      "id": "pooch-rover-done-over-mobile-pet-grooming",
+      "name": "Rover Done Over Mobile Pet Grooming",
+      "phone": "(813) 310-5600",
+      "phone_tel": "+18133105600",
+      "email": "",
+      "website": "https://roverdoneover.net",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rover+Done+Over+Mobile+Pet+Grooming+Tampa+FL",
+      "facebook_url": "",
+      "town": "Tampa",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Tampa",
+        "South Tampa",
+        "Davis Island",
+        "Carrollwood",
+        "Westchase",
+        "Lutz",
+        "Land O' Lakes",
+        "Wesley Chapel",
+        "St. Petersburg",
+        "Pasco County"
+      ],
+      "services": [
+        "Bath, Ears & Nails from $95",
+        "Mini Groom (Face, Feet & Tail) from $110",
+        "Full Groom from $120",
+        "Spa add-ons $5\u2013$25 including Teeth Brushing $8 (brushing only)"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://roverdoneover.net",
+      "data_notes": "Teeth brushing add-on noted (brushing only). Family-owned, non-franchised (its own words), since 2008."
+    },
+    {
+      "id": "pooch-fancyfur-mobile-dog-grooming",
+      "name": "FancyFur Mobile Dog Grooming",
+      "phone": "813-890-9110",
+      "phone_tel": "+18138909110",
+      "email": "",
+      "website": "https://fancyfurdoggrooming.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=FancyFur+Mobile+Dog+Grooming+Tampa+FL",
+      "facebook_url": "",
+      "town": "Tampa",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Tampa"
+      ],
+      "services": [
+        "Mobile grooming in a converted grooming salon trailer driven to the home",
+        "One-on-one grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://fancyfurdoggrooming.com",
+      "data_notes": "Tampa (Town 'n' Country). Small dogs only, no more than 20 lbs. Hooks up to the client's outdoor water spigot and electrical outlet (as published). No prices published on the page read."
+    },
+    {
+      "id": "pooch-puptown-mobile-grooming",
+      "name": "Puptown Mobile Grooming",
+      "phone": "813-898-4707",
+      "phone_tel": "+18138984707",
+      "email": "",
+      "website": "https://puptownmobile.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Puptown+Mobile+Grooming+St.+Petersburg+FL",
+      "facebook_url": "",
+      "town": "St. Petersburg",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "St. Petersburg",
+        "Pinellas County",
+        "South Tampa"
+      ],
+      "services": [
+        "Bath, Ears & Nails from $85",
+        "Bath & Tidy Up from $105",
+        "Full Grooming from $120",
+        "Doodles / Poodles groom from $110/hr"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://puptownmobile.com",
+      "data_notes": ""
+    },
+    {
+      "id": "pooch-thee-grooming-genie",
+      "name": "Thee Grooming Genie",
+      "phone": "(813) 441-3886",
+      "phone_tel": "+18134413886",
+      "email": "",
+      "website": "https://theegroominggenie.co",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thee+Grooming+Genie+Tampa+FL",
+      "facebook_url": "",
+      "town": "Tampa",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Tampa",
+        "St. Petersburg",
+        "Clearwater",
+        "Largo",
+        "Pinellas Park",
+        "Dunedin",
+        "Seminole",
+        "Pasco",
+        "Polk"
+      ],
+      "services": [
+        "Dog baths",
+        "Face / ears / tail tidy",
+        "Full haircuts",
+        "Cat bath / trim / haircut"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://theegroominggenie.co",
+      "data_notes": "Mobile + drop-off, not mobile-only: mobile driveway visit is a published, bookable option in every service area; drop-off is also available at its Tampa facility. Listing must be described as mobile-first, not mobile-only."
+    },
+    {
+      "id": "pooch-canine-care-mobile-grooming",
+      "name": "Canine Care Mobile Grooming",
+      "phone": "727-507-1547",
+      "phone_tel": "+17275071547",
+      "email": "",
+      "website": "https://caninecaremg.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Canine+Care+Mobile+Grooming+Largo+FL",
+      "facebook_url": "",
+      "town": "Largo",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Largo",
+        "Clearwater",
+        "Belleair",
+        "Indian Rocks Beach",
+        "Seminole"
+      ],
+      "services": [
+        "Small Dog Groom from $90 (warm bath, hand blow dry, brush out, clipping and hand scissoring, pad trim, ears cleaned, nails trimmed and filed, sanitary trim)",
+        "Teeth Brushed $15 add-on (brushing only)",
+        "Flea Bath $20 add-on"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://caninecaremg.com",
+      "data_notes": "Small dogs specialist. Teeth brushing add-on noted (brushing only)."
+    },
+    {
+      "id": "pooch-oh-my-dog-mobile",
+      "name": "Oh My Dog Mobile",
+      "phone": "727-641-6517",
+      "phone_tel": "+17276416517",
+      "email": "",
+      "website": "https://ohmydogllc.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oh+My+Dog+Mobile+Clearwater+FL",
+      "facebook_url": "",
+      "town": "Clearwater",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Clearwater",
+        "Palm Harbor"
+      ],
+      "services": [
+        "Baths",
+        "Neaten-up services",
+        "Haircuts"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://ohmydogllc.com",
+      "data_notes": "No prices published on the page read \u2014 pricing is by inquiry, as published."
+    },
+    {
+      "id": "pooch-sollys-pet-grooming",
+      "name": "Solly's Pet Grooming",
+      "phone": "(619) 794-3590",
+      "phone_tel": "+16197943590",
+      "email": "",
+      "website": "https://sollyspetgrooming.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Solly%27s+Pet+Grooming+Tampa+FL",
+      "facebook_url": "",
+      "town": "Tampa",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Tampa",
+        "Hillsborough County"
+      ],
+      "services": [
+        "Full Grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://sollyspetgrooming.com",
+      "data_notes": "619 is a San Diego area code \u2014 number recorded exactly as the business publishes it on its own site. Service detail on its own site is brief."
+    },
+    {
+      "id": "pooch-love-pets-makeover-mobile-pets-grooming-tampa",
+      "name": "Love Pets Makeover \u2014 Mobile Pets Grooming Tampa",
+      "phone": "863-375-8081",
+      "phone_tel": "+18633758081",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Love+Pets+Makeover+%E2%80%94+Mobile+Pets+Grooming+Tampa+Tampa+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/lovepetsmakeover/",
+      "town": "Tampa",
+      "region": "tampa-bay",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Lutz",
+        "Odessa",
+        "Land O' Lakes",
+        "Palm Harbor",
+        "Clearwater",
+        "Dunedin",
+        "Oldsmar",
+        "Safety Harbor",
+        "Westchase",
+        "St. Petersburg",
+        "Brandon",
+        "New Port Richey",
+        "Trinity"
+      ],
+      "services": [
+        "Mobile pet grooming in a branded van"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/lovepetsmakeover/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@lovepetsmakeover); the business directs customers to text this number in its own replies on its own posts. No single base town is published \u2014 assigned to Tampa from the business name / Tampa Bay zones, see data-notes.md. No prices published on the posts read."
+    },
+    {
+      "id": "pooch-pretty-dogs-mobile-grooming-pretty-dogs-llc",
+      "name": "Pretty Dogs Mobile Grooming (Pretty Dogs LLC)",
+      "phone": "(689) 297-0395",
+      "phone_tel": "+16892970395",
+      "email": "",
+      "website": "https://prettydogsfl.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pretty+Dogs+Mobile+Grooming+%28Pretty+Dogs+LLC%29+Orlando+FL",
+      "facebook_url": "",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando"
+      ],
+      "services": [
+        "Mobile, on-demand grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://prettydogsfl.com",
+      "data_notes": "Its own homepage is brief \u2014 no service menu or prices were published on the page read, and none are recorded."
+    },
+    {
+      "id": "pooch-patrol-and-colors-grooming-mobile-j-s-llc",
+      "name": "Patrol and Colors Grooming Mobile J&S LLC",
+      "phone": "(407) 367-9772",
+      "phone_tel": "+14073679772",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Patrol+and+Colors+Grooming+Mobile+J%26S+LLC+Orlando+FL",
+      "facebook_url": "",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando",
+        "Kissimmee",
+        "St. Cloud",
+        "Chuluota",
+        "Lake Mary"
+      ],
+      "services": [
+        "Full Groom",
+        "Mini Groom",
+        "Luxury Bath",
+        "Nail Trim",
+        "Ear Cleaning",
+        "Teeth Brushing (brushing only)",
+        "Deshedding",
+        "Creative Color"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Social-only presence: verified from its own Facebook page (social-led business; no website found in this pass); no Facebook page URL is recorded in the research, so facebook_url and source_url are left blank rather than guessed. Teeth brushing add-on noted (brushing only). Dogs and cats; cage-free, one-on-one. Prices are given by private message, per its own replies \u2014 none published, none recorded. Service area beyond Orlando is from customer inquiries on its own page covering Kissimmee, St. Cloud, Chuluota and Lake Mary."
+    },
+    {
+      "id": "pooch-pam-luis-pet-grooming-mobile",
+      "name": "Pam & Luis Pet Grooming Mobile",
+      "phone": "321-365-9569",
+      "phone_tel": "+13213659569",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pam+%26+Luis+Pet+Grooming+Mobile+Orlando+FL",
+      "facebook_url": "",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando"
+      ],
+      "services": [
+        "Baths",
+        "Haircuts",
+        "Brushing"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Social-only presence: verified from its own Facebook page (social-led business); no Facebook page URL is recorded in the research, so facebook_url and source_url are left blank rather than guessed. Book by WhatsApp at the number shown. No prices published on the posts read."
+    },
+    {
+      "id": "pooch-grooming-by-karol",
+      "name": "Grooming by Karol",
+      "phone": "407-866-7116",
+      "phone_tel": "+14078667116",
+      "email": "",
+      "website": "https://groomingbykarol.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grooming+by+Karol+Orlando+FL",
+      "facebook_url": "",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando"
+      ],
+      "services": [
+        "Style Trim Package from $100",
+        "Signature Full Groom from $115",
+        "Brush & Demat from $15",
+        "Flea & Tick $40",
+        "Hand Stripping $100/hr"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://groomingbykarol.com",
+      "data_notes": "Dental flag: its own Instagram flyer lists 'dental cleaning without anesthesia' among services; the website menu read in this pass does NOT publish a standalone dental service or dental price. Included on the website evidence in the research, flagged for the parent's ruling before any listing publishes \u2014 if the flyer wording reflects a real scaling service, this listing comes out under the hard exclusion. Experience is published as 13+ years (website) / 15 years (its own social flyer) \u2014 not resolved. Service area published only as 'Orlando and surrounding areas', so service_area is [Orlando]."
+    },
+    {
+      "id": "pooch-animal-wellness-world",
+      "name": "Animal Wellness World",
+      "phone": "954-701-0624",
+      "phone_tel": "+19547010624",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Animal+Wellness+World+Orlando+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/animal_wellnessworld/",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando",
+        "Kissimmee",
+        "Lake Mary",
+        "Winter Park",
+        "Sanford",
+        "Apopka",
+        "Clermont"
+      ],
+      "services": [
+        "Mobile pet grooming \u2014 We Come To You",
+        "Stress-free grooming with natural products"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/animal_wellnessworld/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@animal_wellnessworld). 954 is a Broward County area code \u2014 recorded exactly as published. No prices published on the posts read."
+    },
+    {
+      "id": "pooch-4pets-mobile-grooming-4-pets-mobile-care-services",
+      "name": "4Pets Mobile Grooming (4 Pets Mobile Care Services)",
+      "phone": "(407) 247-7882",
+      "phone_tel": "+14072477882",
+      "email": "",
+      "website": "https://4petsmobile.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4Pets+Mobile+Grooming+%284+Pets+Mobile+Care+Services%29+Orlando+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/4petsmobile/",
+      "town": "Orlando",
+      "region": "orlando",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Orlando"
+      ],
+      "services": [
+        "Mobile Grooming + Spa"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Verified from its own Instagram page (@4petsmobile); website 4petsmobile.com is named on its own van / posts. Instagram URL is in social_url; source_url is left blank because verification was from the Instagram page, not the website. Service detail beyond grooming + spa is not published on the posts read \u2014 none invented."
+    },
+    {
+      "id": "pooch-fluffy-paws-mobile-pet-grooming",
+      "name": "Fluffy Paws Mobile Pet Grooming",
+      "phone": "(561) 900-8549",
+      "phone_tel": "+15619008549",
+      "email": "",
+      "website": "https://fluffypawspetmobile.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fluffy+Paws+Mobile+Pet+Grooming+Broward+County+FL",
+      "facebook_url": "",
+      "town": "Broward County",
+      "region": "south-florida",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Broward County",
+        "Palm Beach County"
+      ],
+      "services": [
+        "Full Grooming for Dogs (bath, haircut or de-shedding, nails, ears)",
+        "Bath & Brush",
+        "Dental Hygiene \u2014 gentle teeth brushing with pet-safe toothpaste (brushing only)",
+        "Nail Trimming & Filing",
+        "Anal Gland Expression",
+        "De-shedding",
+        "Sanitary Trim",
+        "Flea & Tick Treatment",
+        "Puppy Grooming"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://fluffypawspetmobile.com",
+      "data_notes": "No single base town is published \u2014 the research assigns Broward County and Palm Beach County only, so town is Broward County (first-named). Exclusively mobile, no walk-in salon. Dental Hygiene is defined on its own page as gentle teeth brushing with pet-safe toothpaste (brushing only \u2014 not the hard-exclusion service). Pricing is by personalized quote \u2014 none published."
+    },
+    {
+      "id": "pooch-palm-beach-paws-mobile",
+      "name": "Palm Beach Paws Mobile",
+      "phone": "(561) 429-7698",
+      "phone_tel": "+15614297698",
+      "email": "",
+      "website": "https://palmbeachpawsmobile.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Palm+Beach+Paws+Mobile+West+Palm+Beach+FL",
+      "facebook_url": "",
+      "town": "West Palm Beach",
+      "region": "south-florida",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "West Palm Beach",
+        "Jupiter",
+        "Palm Beach Gardens",
+        "Boca Raton",
+        "Delray Beach",
+        "Wellington",
+        "Boynton Beach",
+        "Lake Worth"
+      ],
+      "services": [
+        "Full grooms",
+        "Breed-specific styling",
+        "De-shedding",
+        "Senior grooming",
+        "Puppy intro sessions",
+        "Small breeds about $65\u2013$85",
+        "Medium $85\u2013$120",
+        "Large breeds and doodles $110\u2013$175",
+        "Add-ons (nail grinding, teeth brushing, de-shedding) $15\u2013$35"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://palmbeachpawsmobile.com",
+      "data_notes": "County-wide Palm Beach County service; town is West Palm Beach, the first-named town in its published service area. Teeth brushing is among the $15\u2013$35 add-ons (brushing only). Prices as published in its own FAQ."
+    },
+    {
+      "id": "pooch-palomas-grooming-mobile-pet-salon",
+      "name": "Paloma's Grooming \u2014 Mobile Pet Salon",
+      "phone": "(754) 246-6137",
+      "phone_tel": "+17542466137",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Paloma%27s+Grooming+%E2%80%94+Mobile+Pet+Salon+Fort+Lauderdale+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/palomasgrooming/",
+      "town": "Fort Lauderdale",
+      "region": "south-florida",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Fort Lauderdale",
+        "Pompano Beach",
+        "Deerfield Beach",
+        "Davie",
+        "Boca Raton",
+        "Delray Beach",
+        "Boynton Beach"
+      ],
+      "services": [
+        "Full bath",
+        "Sanitary trimming",
+        "Scissor cut",
+        "Coat hydration",
+        "Ear cleaning",
+        "Nail trimming",
+        "Dental brushing (brushing only)"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/palomasgrooming/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@palomasgrooming; social-led business). Dental brushing noted (brushing only, as published). No prices published on the posts read."
+    },
+    {
+      "id": "pooch-recogroom-reco-groom",
+      "name": "Recogroom (RECO-groom)",
+      "phone": "+1 754-231-7546",
+      "phone_tel": "+17542317546",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Recogroom+%28RECO-groom%29+Broward+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/recogroom99/",
+      "town": "Broward",
+      "region": "south-florida",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Broward",
+        "West Palm Beach",
+        "Miami-Dade",
+        "Fort Lauderdale",
+        "Hollywood"
+      ],
+      "services": [
+        "Baths & Brush",
+        "Baths & Haircuts",
+        "Flea & Tick Bath",
+        "Ear Cleaning",
+        "Nail Trimming",
+        "Teeth Cleaning"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/recogroom99/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@recogroom99; social-led business). Town recorded as Broward, the first-named area as published (a county, not a town \u2014 see data-notes.md). 'Teeth Cleaning' wording as published on its own flyer \u2014 no standalone dental scaling service, technique or dental price is published, so this is not counted as the hard-exclusion service; flagged in the research for transparency."
+    },
+    {
+      "id": "pooch-golden-dogs-mobile-grooming-golden-mobile-grooming",
+      "name": "Golden Dogs Mobile Grooming (Golden Mobile Grooming)",
+      "phone": "+1 (786) 769-6161",
+      "phone_tel": "+17867696161",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Golden+Dogs+Mobile+Grooming+%28Golden+Mobile+Grooming%29+Miami-Dade+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/goldenmobilegrooming/",
+      "town": "Miami-Dade",
+      "region": "south-florida",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Miami-Dade",
+        "Broward",
+        "Palm Beach"
+      ],
+      "services": [
+        "Mobile grooming \u2014 We Come To You",
+        "Same-day appointments available"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/goldenmobilegrooming/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@goldenmobilegrooming; social-led business). No single base town is published \u2014 the research assigns Miami-Dade, Broward and Palm Beach counties only, so town is Miami-Dade (first-named). No service menu or prices published on the posts read \u2014 none invented."
+    },
+    {
+      "id": "pooch-heavenly-hounds-mobile-grooming",
+      "name": "Heavenly Hounds Mobile Grooming",
+      "phone": "(423) 833-8024",
+      "phone_tel": "+14238338024",
+      "email": "",
+      "website": "https://heavenlyhoundsmobilegrooming.com",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heavenly+Hounds+Mobile+Grooming+St.+Johns+FL",
+      "facebook_url": "",
+      "town": "St. Johns",
+      "region": "jacksonville",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "St. Johns",
+        "Nocatee",
+        "Palm Valley",
+        "Ponte Vedra",
+        "Ponte Vedra Beach",
+        "South Jacksonville"
+      ],
+      "services": [
+        "Bathing and Conditioning",
+        "Haircuts and Styling",
+        "Nail Trimming and Buffing",
+        "Flea Treatments",
+        "Blow Dry by Hand",
+        "Ear Cleaning and Plucking",
+        "Teeth Brushing (brushing only)",
+        "De-shedding",
+        "Brush Out"
+      ],
+      "hours": "Mon\u2013Thu 8:00 AM\u20135:00 PM",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://heavenlyhoundsmobilegrooming.com",
+      "data_notes": "Phone is published as text. Teeth brushing add-on noted (brushing only). 423 is a Tennessee area code \u2014 recorded exactly as published (its own posts note the groomer relocated to Florida)."
+    },
+    {
+      "id": "pooch-what-the-fluff-mobile-grooming-jax",
+      "name": "What The Fluff Mobile Grooming JAX",
+      "phone": "904-754-4924",
+      "phone_tel": "+19047544924",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=What+The+Fluff+Mobile+Grooming+JAX+Jacksonville+Beach+FL",
+      "facebook_url": "",
+      "town": "Jacksonville Beach",
+      "region": "jacksonville",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Jacksonville Beach",
+        "Ponte Vedra"
+      ],
+      "services": [
+        "Two all-inclusive packages (long-haired and short-haired dogs)"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "",
+      "data_notes": "Social-only presence: verified from its own Facebook page (social-led business; a website is shown on its van in its own posts but no website URL was read in this pass, so website is left blank); no Facebook page URL is recorded in the research, so facebook_url and source_url are left blank rather than guessed. No prices published on the posts read."
+    },
+    {
+      "id": "pooch-top-dogs-mobile-spa",
+      "name": "Top Dogs Mobile Spa",
+      "phone": "904-878-9930",
+      "phone_tel": "+19048789930",
+      "email": "",
+      "website": "",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Top+Dogs+Mobile+Spa+Jacksonville+FL",
+      "facebook_url": "",
+      "social_url": "https://www.instagram.com/topdogsmobilespa/",
+      "town": "Jacksonville",
+      "region": "jacksonville",
+      "category": "mobile-dog-grooming",
+      "service_area": [
+        "Jacksonville"
+      ],
+      "services": [
+        "Bath",
+        "Haircuts",
+        "Nail Trims",
+        "Ear Cleaning",
+        "De-Shedding"
+      ],
+      "hours": "",
+      "is_featured": false,
+      "status": "published",
+      "source_url": "https://www.instagram.com/topdogsmobilespa/",
+      "data_notes": "Social-only presence: verified from its own Instagram page (@topdogsmobilespa; social-led business). No prices published on the posts read."
+    }
+  ]
+}
