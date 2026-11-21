@@ -609,34 +609,6 @@
       "data_notes": "Social-only presence: verified from its own Facebook page (social-led business); no Facebook page URL is recorded in the research, so facebook_url and source_url are left blank rather than guessed. Book by WhatsApp at the number shown. No prices published on the posts read."
     },
     {
-      "id": "pooch-grooming-by-karol",
-      "name": "Grooming by Karol",
-      "phone": "407-866-7116",
-      "phone_tel": "+14078667116",
-      "email": "",
-      "website": "https://groomingbykarol.com",
-      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grooming+by+Karol+Orlando+FL",
-      "facebook_url": "",
-      "town": "Orlando",
-      "region": "orlando",
-      "category": "mobile-dog-grooming",
-      "service_area": [
-        "Orlando"
-      ],
-      "services": [
-        "Style Trim Package from $100",
-        "Signature Full Groom from $115",
-        "Brush & Demat from $15",
-        "Flea & Tick $40",
-        "Hand Stripping $100/hr"
-      ],
-      "hours": "",
-      "is_featured": false,
-      "status": "published",
-      "source_url": "https://groomingbykarol.com",
-      "data_notes": "Dental flag: its own Instagram flyer lists 'dental cleaning without anesthesia' among services; the website menu read in this pass does NOT publish a standalone dental service or dental price. Included on the website evidence in the research, flagged for the parent's ruling before any listing publishes \u2014 if the flyer wording reflects a real scaling service, this listing comes out under the hard exclusion. Experience is published as 13+ years (website) / 15 years (its own social flyer) \u2014 not resolved. Service area published only as 'Orlando and surrounding areas', so service_area is [Orlando]."
-    },
-    {
       "id": "pooch-animal-wellness-world",
       "name": "Animal Wellness World",
       "phone": "954-701-0624",
